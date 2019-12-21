@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import utils.BrowserUtils;
 import utils.Driver;
-
+//uuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 //everything that is in common among pages
 //can go here
 //for example top menu elements don't belong to specific page
